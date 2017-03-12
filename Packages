@@ -1,3 +1,17 @@
+Package: com.eukoalyptus.minimalisticui
+Version: 1.3
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.eukoalyptus.minimalisticui_1.3-3+debug-82+debug_iphoneos-arm.deb
+Size: 25648
+MD5sum: 078098fee53edb59d5b1da138fddb675
+Description: Remove the 3D Touch Separators for iOS 10!
+Name: MinimalisticUI
+Author: Infinite
+Depiction: https://antiquebeta.github.io/apollo.html
+
 Package: com.antique.3dnodiv10
 Version: 0_1.2
 Section: Tweaks
@@ -603,4 +617,3 @@ MD5sum: 8c60868bfc7635e142b41b2f9d863cf6
 Name: Sys+
 Author: Antique
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-
