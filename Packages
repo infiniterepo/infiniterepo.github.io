@@ -1,619 +1,415 @@
-Package: com.eukoalyptus.minimalisticui
-Version: 1.3
-Section: Tweaks
-Maintainer: Antique
-Depends: mobilesubstrate
+Package: com.decimation.slashes
+Version: 1.1
 Architecture: iphoneos-arm
-Filename: ./debs/com.eukoalyptus.minimalisticui_1.3-3+debug-82+debug_iphoneos-arm.deb
-Size: 25648
-MD5sum: 078098fee53edb59d5b1da138fddb675
-Description: Remove the 3D Touch Separators for iOS 10!
-Name: MinimalisticUI
-Author: Infinite
-Depiction: https://antiquebeta.github.io/apollo.html
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//messages/com.decimation.slashes.deb
+Size: 4358
+MD5sum: 0b0805cc75d1aed56fb18a719548dfd9
+SHA1: 1636c56e72d050076ee893db4bd949bb6dc15aa2
+SHA256: 4987ed43440a4ff9c48a791bc74ffe647530216b6b0c4dce20aa50b2fcdca742
+Section: Themes (Messages)
+Description: Vertical slashes for Messages.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.slashes
+Name: Slashes for Messages
 
-Package: com.antique.3dnodiv10
-Version: 0_1.2
-Section: Tweaks
-Maintainer: Antique
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/3DNoDiv10.deb
-Size: 3240
-Installed-Size: 136
-MD5sum: f9c80570d1e9aada74eef45aca47c506
-Description: Remove the 3D Touch Separators for iOS 10!
-Name: 3DNoDiv10
-Author: Antique
-
-Package: com.antique.ahoyhoy
-Version: 2.9-1+debug
-Section: Beta
-Maintainer: Antique
-Depends: mobilesubstrate, com.antique.infinios
-Architecture: iphoneos-arm
-Filename: ./debs/Ahoyhoy.deb
-Size: 11048
-Installed-Size: 148
-MD5sum: c3453e48888a4fd65bd8140f2be4bae3
-Name: Ahoyhoy
-Author: Antique
-Icon: / file:///Applications/Cydia.app/Sections/Tweaks.png
-
-Package: com.antique.apollo
-Version: 3.35
-Section: Tweaks
-Maintainer: Antique <boernai290@gmail.com>
-Depends: mobilesubstrate, com.antique.infinios, org.thebigboss.libcolorpicker
-Architecture: iphoneos-arm
-Filename: ./debs/Apollo.deb
-Size: 7078
-Installed-Size: 140
-MD5sum: 00833966474b202d16fb9d4579c1ce27
-Name: Apollo
-Author: Antique <boernai290@gmail.com>
-Depiction: https://antiquebeta.github.io/apollo.html
-
-Package: com.antique.appitizer
-Version: 1.00.3
-Section: Tweaks
-Maintainer: Antique <boernai290@gmail.com>
-Depends: firmware (>= 8.4), mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Filename: ./debs/Appitizer.deb
-Size: 127442
-Installed-Size: 460
-MD5sum: 4dd0a5df794a39fa6545afca6a47c848
-Description: Legacy iOS 9 App Switcher
-Name: Appitizer
-Author: Antique <boernai290@gmail.com>
-
-Package: com.antique.atlas
-Version: z1.0-1+debug
-Section: Tweaks
-Maintainer: Antique
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/Atlas.deb
-Size: 3720
-Installed-Size: 136
-MD5sum: b8a92f72dac5075da25b0239688d5963
-Description: New CC Style for iOS 10
-Name: Atlas
-Author: Antique
-
-Package: com.antique.auroramp
-Version: 2.1.0
-Section: Tweaks
-Maintainer: Antique
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/AuroraMP.deb
-Size: 5842
-Installed-Size: 136
-MD5sum: 9840b4b25cd567b39e6d054bca1517b7
-Description: Show 'Now Playing' in the CC
-Name: AuroraMP
-Author: Antique
-
-Package: com.antique.blurst
-Version: 0.8
-Section: Development
-Maintainer: Antique <boernai290@gmail.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/Blurst.deb
-Size: 16688
-Installed-Size: 320
-MD5sum: 4b5cfdd95bc0fec4eaf87f95b61db4da
-Name: Blurst
-Author: Antique <boernai290@gmail.com>
-Depiction: https://antiquebeta.github.io/blurst.html
-
-Package: com.antique.bottombanners
-Version: 2
-Section: Tweaks
-Maintainer: Antique <boernai290@gmail.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/BottomBanners.deb
-Size: 18008
-Installed-Size: 292
-MD5sum: 1cf54b5ecc54c001f043281541d23ee0
-Description: Snazzy descriptions go here 😉
-Name: BottomBanners
-Author: Antique <boernai290@gmail.com>
-Depiction: https://antiquebeta.github.io/bottombanners.html
-
-Package: com.antique.buzz
-Version: 8.3.4
-Section: Beta
-Maintainer: Antique
-Depends: mobilesubstrate, com.antique.infinios
-Architecture: iphoneos-arm
-Filename: ./debs/Buzz.deb
-Size: 7496
-Installed-Size: 140
-MD5sum: c3d4b08c978b37745f27b65f1941b3a8
-Name: Buzz
-Author: Antique
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-
-Package: com.antique.camhdr+
-Version: 0.0.1
-Section: Tweaks
-Maintainer: Antique
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/CamHDR.deb
-Size: 3408
-Installed-Size: 120
-MD5sum: bf720878a13270cae8c5a8ae0a42344b
-Description: An awesome MobileSubstrate tweak!
-Name: CamHDR+
-Author: Antique
-
-Package: com.antique.ccdotsaway
-Version: 2.1-1+debug
-Section: Tweaks
-Maintainer: Antique <boernai290@gmail.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/CCDotsAway.deb
-Size: 3052
-Installed-Size: 136
-MD5sum: 283d07053c86d595b532f6ece614272d
-Description: Remove the page dots in the CC
-Name: CCDotsAway
-Author: Antique <boernai290@gmail.com>
-Depiction: https://antiquebeta.github.io/ccdotsaway.html
-
-Package: com.antique.chatter
-Version: 5.1.1
-Section: Tweaks
-Maintainer: Antique <boernai290@gmail.com>
-Depends: mobilesubstrate, com.antique.infinios, org.thebigboss.libcolorpicker
-Architecture: iphoneos-arm
-Filename: ./debs/Chatty.deb
-Size: 9480
-Installed-Size: 136
-MD5sum: 6415456a8e3178f86a55733764893917
-Name: Chatty
-Author: Antique <boernai290@gmail.com>
-Depiction: https://antiquebeta.github.io/chatty.html
-
-Package: com.antique.controlclock
-Version: 1.1_4
-Section: Tweaks
-Maintainer: Antique
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/ControlClock.deb
-Size: 5334
-Installed-Size: 136
-MD5sum: 1ed827272667983f2a9ed5b57c184b48
-Description: Show the time on the Control Center
-Name: Control Clock
-Author: Antique
-
-Package: com.antique.droidbars
-Version: 0.0.55
-Section: Tweaks
-Maintainer: Antique <boernai290@gmail.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/DroidBars.deb
-Size: 3508
-Installed-Size: 136
-MD5sum: bdd2df793adbb105720866b18d5dcbc1
-Description: Android style contact bars for Messages
-Name: DroidBars
-Author: Antique <boernai290@gmail.com>
-Depiction: https://antiquebeta.github.io/droidbars.html
-
-Package: com.antique.haptic10
-Version: 1.27.4
-Section: Tweaks
-Maintainer: Antique
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/Haptic.deb
-Size: 9928
-Installed-Size: 284
-MD5sum: e057327569923d61551ba5f560944eaf
-Name: Haptic10
-Author: Antique
-
-Package: com.antique.homi+
-Version: 0.1.47
-Section: Tweaks
-Maintainer: Antique
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Architecture: iphoneos-arm
-Filename: ./debs/HomiPlus.deb
-Size: 13724
-Installed-Size: 304
-MD5sum: 974d3a538615f8d44c5ffb95db99d16a
-Description: Remove Dock. Add Icons & Much More.
-Name: Homi+
-Author: Antique
-
-Package: com.antique.infinios
-Version: 4.2
-Section: Tweaks
-Maintainer: Antique <boernai290@gmail.com>
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker, com.antique.chatter, com.antique.shutterbug, com.antique.sys+, com.antique.apollo, com.antique.buzz, com.antique.springify, com.antique.ahoyhoy, com.antique.safaron, com.antique.snapped
-Architecture: iphoneos-arm
-Filename: ./debs/InfiniOS.deb
-Size: 60644
-Installed-Size: 288
-MD5sum: d02862abcba5cf4b2cb5bf8ff38cd641
-Description: Bring your dreams and imagination to life!
-Name: InfiniOS
-Author: Antique <boernai290@gmail.com>
-Depiction: https://antiquebeta.github.io/infinios.html
-
-Package: com.antique.lightscameralive
-Version: 10.0
-Section: Tweaks
-Maintainer: Antique
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/LightsCameraLIVE.deb
-Size: 3694
-Installed-Size: 136
-MD5sum: 6a44d10bad75d29d7a1fa2059dbc9c24
-Description: Enable Live Photos on all iDevices
-Name: LightsCameraLIVE
-Author: Antique
-
-Package: com.antique.live+
-Version: 1.0-7
-Section: Tweaks
-Maintainer: Antique
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/Live.deb
-Size: 9624
-Installed-Size: 252
-MD5sum: 7edb516efb08b1b314a6e7a25b1a0515
-Name: Live+
-Author: Antique
-
-Package: com.antique.lowpowernolock
-Version: 2.7
-Section: Tweaks
-Maintainer: Antique
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/LowPowerNoLock.deb
-Size: 3752
-Installed-Size: 136
-MD5sum: 644c71ee8952522a30d53c4ea81e039e
-Description: Low Power Mode and No Autolock Working Together
-Name: LowPowerNoLock
-Author: Antique
-
-Package: com.antique.lsnobatt
-Version: 0.0.1
-Section: Tweaks
-Maintainer: Antique
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/LSNoBatt.deb
-Size: 3640
-Installed-Size: 136
-MD5sum: e1c0011a0eff69e9ae2f5340d4163a3a
-Description: An awesome MobileSubstrate tweak!
-Name: LSNoBatt
-Author: Antique
-
-Package: com.antique.lsticktock
-Version: 0.0.1-1
-Section: Tweaks
-Maintainer: Antique <boernai290@gmail.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/LSTickTock.deb
-Size: 5514
-Installed-Size: 280
-MD5sum: 6043ab819ffbf326a5737e79f126257f
-Description: An awesome MobileSubstrate tweak!
-Name: LSTickTock
-Author: Antique <boernai290@gmail.com>
-
-Package: com.antique.lucidcambars
-Version: 0.001
-Section: Tweaks
-Maintainer: Antique <boernai290@gmail.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/LucidCamBars.deb
-Size: 2878
-Installed-Size: 200
-MD5sum: 8fbaa97f4f534b1143a40fc86c9b720a
-Description: Transparent Camera Bars. Woo!
-Name: LucidCamBars
-Author: Antique <boernai290@gmail.com>
-Depiction: https://antiquebeta.github.io/lucidcambars.html
-
-Package: com.antique.lunasafari
-Version: 0.0.1
-Section: Tweaks
-Maintainer: Antique
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/LunaSafari.deb
-Size: 4762
-Installed-Size: 120
-MD5sum: 530d692e20a06b9e5c375e605b3f0408
-Description: An awesome MobileSubstrate tweak!
-Name: LunaSafari
-Author: Antique
-
-Package: com.antique.minichargeos
-Version: 0.14
-Section: Tweaks
-Maintainer: Antique
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/MiniChargeOS.deb
-Size: 67452
-Installed-Size: 328
-MD5sum: 90522164d1423d1ad8f3ac1e4a32eead
-Name: MiniChargeOS
-Author: Antique
-
-Package: com.antique.mmguesses
-Version: 1.3a-2+debug
-Section: Tweaks
-Maintainer: Antique
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/MMGuesses.deb
-Size: 3662
-Installed-Size: 136
-MD5sum: 7aa267a9dfc56e386bf578e05e5065a2
-Description: Unlimited Guesses
-Name: MMGuesses
-Author: Antique
-
-Package: com.antique.muesly
+Package: com.decimation.brackets
 Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//messages/com.decimation.brackets.deb
+Size: 4468
+MD5sum: 8e2a64f2d9e90939816d81723b1c1186
+SHA1: 29ea55f7c1f0bff5229bc2ad6a4d4929154b9b00
+SHA256: e7f2e2b9a32772d6146178ef473b30dbbdb081888849e2fa3c38c54341d60278
+Section: Themes (Messages)
+Description: Brackets for Messages.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.brackets
+Name: Brackets for Messages
+
+Package: com.decimation.alm
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//messages/com.decimation.alm.deb
+Size: 28162
+MD5sum: 6b531407ddfd50567e994592164d82e2
+SHA1: 77b814bde507d029ef22ea910793b72feee75e33
+SHA256: 8dd181f11bc7bdfbe71489ffb6d4e3cf455c88135ae10d5866b4ad4485bc9235
+Section: Themes (Messages)
+Description: Android Lollipop Messages for iOS!
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.alm
+Name: Android Lollipop Messages
+
+Package: com.decimation.rectangles
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//messages/com.decimation.rectangles.deb
+Size: 3972
+MD5sum: 7208651eacab4636f026d8cadbb127c1
+SHA1: 1af413c85cf767e5feeacc6bd98c58f9432e75fe
+SHA256: 06f7632c939b42bdf8cc76e4e2307cde6655af55b055b86b8493fef9de655b51
+Section: Themes (Messages)
+Description: Rectangles for Messages.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.rectangles
+Name: Rectangles for Messages
+
+Package: com.decimation.drake
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//lockglyphs/com.decimation.drake.deb
+Size: 36616
+MD5sum: 80685cd962bf78288d1e3071c3addf19
+SHA1: 128d49a093340ff9f4cf3f27a7bb63e76ba25e33
+SHA256: 16c403e13da4ca9a6bcc153ccda4dfaa6496fa74d90d97452f6ddfbcb95e2831
+Section: Themes (LockGlyph)
+Description: Drake - Started From The Bottom Theme for LockGlyph.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.drake
+Name: Drake LockGlyph Theme
+
+Package: com.decimation.revealnc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//tweaks/com.decimation.revealnc.deb
+Size: 4162
+MD5sum: 36c38011a98fe267bac21cd6c3a52cb3
+SHA1: b93c0b411c041bbccd6621b592b88a9c465d1a0f
+SHA256: 41ccb5fdbbd72ef06d5fc83f8800db117df115dac082774e79ff372c0ef5cf7d
 Section: Tweaks
-Maintainer: Antique
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/Muesly.deb
-Size: 9372
-Installed-Size: 252
-MD5sum: e44c4e780819058b9057b42fb37915e6
-Name: Muesly
-Author: Antique
+Description: Android-like reveal animation for the NC.
+Author: Read Stanton & Jonathan (Decimation / jon889) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.revealnc
+Name: RevealNC
 
-Package: com.antique.noclickhome
-Version: 1.1.7
-Section: Tweaks
-Maintainer: Antique
-Depends: mobilesubstrate
+Package: com.decimation.kingdomofgiants
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/NoClickHome.deb
-Size: 4548
-Installed-Size: 136
-MD5sum: 425fd1541e7807ad4a41280340437de1
-Name: NoClickHome
-Author: Antique
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//lockglyphs/com.decimation.kingdomofgiants.deb
+Size: 90840
+MD5sum: 1925be90ef2c52510f20e7eeb9684bdd
+SHA1: 9b94dcac5f326eb9f922917696a49f203c4ce766
+SHA256: cac63cacd88173d7fe246b645fba376866041bbfcec7b6114893ac708087dcc3
+Section: Themes (LockGlyph)
+Description: Kingdom of Giants LockGlyph Theme
+Author: iReaperrr
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.kingdomofgiants
+Name: Kingdom of Giants LockGlyph Theme
 
-Package: com.antique.nomoreexpire
-Version: 0.3a
-Section: Tweaks
-Maintainer: Antique
-Depends: mobilesubstrate
+Package: com.decimation.posthardcoreru
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/NoMoreExpire.deb
-Size: 3764
-Installed-Size: 136
-MD5sum: 0d65a54c7acc4cd224c50f9a004c1545
-Description: Remove App Expiration Forever!
-Name: NoMoreExpire
-Author: Antique
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//lockglyphs/com.decimation.posthardcoreru.deb
+Size: 62646
+MD5sum: 2162f85c96baf3957e4a1aafd8419460
+SHA1: d75a0d104a65c9f5593d7e2aae7ebf6e64443c9f
+SHA256: ec7d01d7032cde7648ac9a29f4f27f4eb8bac6418a224e6a042683f9f4b0b317
+Section: Themes (LockGlyph)
+Description: PosthardcoreRU LockGlyph Theme
+Author: iReaperrr
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.posthardcoreru
+Name: PosthardcoreRU LockGlyph Theme
 
-Package: com.antique.nosleeppls
-Version: 0.4-1
-Section: Tweaks
-Maintainer: Antique
-Depends: mobilesubstrate
+Package: com.decimation.theghostinside
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/NoSleepPls.deb
-Size: 8832
-Installed-Size: 284
-MD5sum: 70e0a7475845abaf81c27f130d9f18f3
-Description: Keep that pesky lockscreen awake for longer
-Name: NoSleepPls
-Author: Antique
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//lockglyphs/com.decimation.theghostinside.deb
+Size: 25930
+MD5sum: 3fdb79c74f06dc6e60f04a41ff2e2bda
+SHA1: 72b5fad41cd16964a485cbce135b7296b4e6291c
+SHA256: 468f45aded656f451de34c4e8f87817552d972667dcc43e3f931207519e27dab
+Section: Themes (LockGlyph)
+Description: The Ghost Inside LockGlyph Theme
+Author: iReaperrr
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.theghostinside
+Name: The Ghost Inside LockGlyph Theme
 
-Package: com.antique.orelse
-Version: 0.12.7
-Section: Beta
-Maintainer: Antique
-Depends: mobilesubstrate
+Package: com.decimation.whitechapelsaw
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/OrElse.deb
-Size: 4394
-Installed-Size: 200
-MD5sum: 943e8b4b7ed5569e95e5b9acaacddbd4
-Description: Are you being lazy? Set an alert!
-Name: OrElse
-Author: Antique
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//lockglyphs/com.decimation.whitechapelsaw.deb
+Size: 59270
+MD5sum: 214e0f7107734b7bef8d4e9ff506c346
+SHA1: f07820f0eb639cfa7a589bf6a236fd2d947f1536
+SHA256: a98bdb74811e59254bc276d4f9ab13809f57d59d78e5ee61d1a16599c92b3812
+Section: Themes (LockGlyph)
+Description: Whitechapel Saw LockGlyph Theme
+Author: iReaperrr
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.whitechapelsaw
+Name: Whitechapel Saw LockGlyph Theme
 
-Package: com.antique.outofcontrol
-Version: 6.1a
-Section: Tweaks
-Maintainer: Antique <boernai290@gmail.com>
-Depends: mobilesubstrate
+Package: com.decimation.slashesforwhatsapp
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/OutOfControl.deb
-Size: 3956
-Installed-Size: 136
-MD5sum: 97889928ff3ebf5165193e8f80ce8545
-Description: Randomised Control Center Toggle Colours
-Name: OutOfControl
-Author: Antique <boernai290@gmail.com>
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//whatsapp/com.decimation.slashesforwhatsapp.deb
+Size: 3976
+MD5sum: 96a66b1c7c47c471d1c97e1ce970c49d 
+SHA1: ab2ecc63d0b7d256441e3287e6d8ef4f3da21f1f
+SHA256: f98b941f912e4781c1412ba6b61dd439a5a6b411e42980ab48e35090ecdb2358
+Section: Themes (WhatsApp)
+Description: Slashes Messages theme for WhatsApp.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.slashesforwhatsapp
+Name: Slashes for WhatsApp
 
-Package: com.antique.revealnc10
-Version: 0.66
-Section: Tweaks
-Maintainer: Antique <boernai290@gmail.com>
-Depends: mobilesubstrate
+Package: com.decimation.iosbubblesforwhatsapp
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/RevealNC10.deb
-Size: 3190
-Installed-Size: 136
-MD5sum: ceade636de3d697953b2b91e8f5f4d43
-Description: Reveal the NC from the top
-Name: RevealNC10
-Author: Antique <boernai290@gmail.com>
-Depiction: https://antiquebeta.github.io/revealnc10.html
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//whatsapp/com.decimation.iosbubblesforwhatsapp.deb
+Size: 5170
+MD5sum: adaf1b75d532dac7dd9bc86ae1fca641
+SHA1: 594c0449e7cf3264ed128266f96292de240f4ce8
+SHA256: 9b0e64eb035ca2ec3569d087d0a0cdad14c70a13896362e7fec85b7c7b61e018
+Section: Themes (WhatsApp)
+Description: iOS Messages bubbles theme for WhatsApp.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.iosbubblesforwhatsapp
+Name: iOS Bubbles for WhatsApp
 
-Package: com.antique.rotolock
-Version: 0.2-1
-Section: Tweaks
-Maintainer: Antique
-Depends: mobilesubstrate
+Package: com.decimation.saberforwhatsapp
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/RotoLock.deb
-Size: 3238
-Installed-Size: 136
-MD5sum: cdc2d03e242637824330720b735d5339
-Description: Force rotation of the Lockscreen
-Name: RotoLock
-Author: Antique
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//whatsapp/com.decimation.saberforwhatsapp.deb
+Size: 4116
+MD5sum: 7cf8aafcb65d8df564e783f5d69b57f5 
+SHA1: a1d52efa111da3995f5cc1d57962cc652e16f4f6
+SHA256: e44ecc07a37bbd4647a40593a12ec5b232d9ae18221fee0829fdff95a24bfc0f 
+Section: Themes (WhatsApp)
+Description: Saber Messages theme for WhatsApp.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.saberforwhatsapp
+Name: Saber for WhatsApp
 
-Package: com.antique.safaron
-Version: 2.2
-Section: Beta
-Maintainer: Antique <boernai290@gmail.com>
-Depends: mobilesubstrate, com.antique.infinios
+Package: com.decimation.impossibletrianglelockglyph
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/Safaron.deb
-Size: 6608
-Installed-Size: 136
-MD5sum: 6961e90bacd55fbd44a0473ee8d11644
-Name: Safaron
-Author: Antique <boernai290@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//lockglyphs/com.decimation.impossibletrianglelockglyph.deb
+Size: 11300
+MD5sum: 48f1baa878f54c77effbc4af218d65a3
+SHA1: 4aa6db471fc17509c9f7c8a7f19930717b6c12b6
+SHA256: bc360e1b82213cb04271dee274405152b995022da3ec2fd327f901676c8a1dc2
+Section: Themes (LockGlyph)
+Description: Impossible triangle LockGlyph theme
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.impossibletrianglelockglyph
+Name: Impossible Triangle LockGlyph Theme
 
-Package: com.antique.sbunlocked
-Version: 0.35a
-Section: iOS 10
-Maintainer: Antique <boernai290@gmail.com>
-Depends: mobilesubstrate
+Package: com.decimation.vulturebootlogo
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/SBUnlocked.deb
-Size: 11396
-Installed-Size: 288
-MD5sum: 383dcbc39871e11a620943fa08935988
-Description: Customisable Homescreen, Lockscreen, Notification Center, Control Center, Status Bar and more.
-Name: SBUnlocked
-Author: Antique <boernai290@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//bootlogos/com.decimation.vulturebootlogo.deb
+Size: 228286
+MD5sum: 2a8bf66c726033050e80a9dfa24a3ad7
+SHA1: 35d5cdeb2cd089bf29fcea5a26417ab6fa043ec7
+SHA256: 5e9f48ab3670774a5e34c06c8d2e8ad474b7a9da5fad07e1e3ac761e96652f02
+Section: Themes (Boot Logos)
+Description: Vulture boot logo.
+Author: iReaperrr
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.vulturebootlogo
+Name: Vulture Boot Logo
 
-Package: com.antique.shutterbug
-Version: 0.4.6
-Section: Beta
-Maintainer: Antique
-Depends: mobilesubstrate, com.antique.infinios
+Package: com.decimation.posthardcorerubootlogo
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/ShutterBug.deb
-Size: 5398
-Installed-Size: 136
-MD5sum: 1bca3d4f91e873ed1e056d5d6d1a6763
-Name: ShutterBug
-Author: Antique
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//bootlogos/com.decimation.posthardcorerubootlogo.deb
+Size: 312888
+MD5sum: 0e548b18f09e9e3030acdc977ef20ba5
+SHA1: 873fdf47371b646284fa632affd17150fbd30547
+SHA256: 78ccfe460b0b02ab003d6c9b3b1314e02b3676bc4a16ce931f144a7b6bc2c32d
+Section: Themes (Boot Logos)
+Description: PosthardcoreRU boot logo.
+Author: iReaperrr
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.posthardcorerubootlogo
+Name: PosthardcoreRU Boot Logo
 
-Package: com.antique.slimsliders
-Version: 0.3-1+debug
-Section: Tweaks
-Maintainer: Antique <boernai290@gmail.com>
-Depends: mobilesubstrate
+Package: com.decimation.hundredthkeybootlogo
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/SlimSliders.deb
-Size: 3556
-Installed-Size: 136
-MD5sum: f2ab2386363fe1cba6707540bfee7c28
-Description: Remove the round button on all sliders
-Name: SlimSliders
-Author: Antique <boernai290@gmail.com>
-Depiction: https://antiquebeta.github.io/slimsliders.html
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//bootlogos/com.decimation.hundredthkeybootlogo.deb
+Size: 170640
+MD5sum: c6ad246d68acb98299fe5d7292021633
+SHA1: 9df8fc80bd48d4f3d7b06bbd650e1bd37aa9fe12
+SHA256: c0b96fc85699ce7da546bcef3f6a14b5fed7fedd9cacddb114e4ef87da7a8bfe
+Section: Themes (Boot Logos)
+Description: Hundredth key boot logo.
+Author: iReaperrr
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.hundredthkeybootlogo
+Name: Hundredth Key Boot Logo
 
-Package: com.antique.snapped
-Version: 3.7
-Section: Tweaks
-Maintainer: Antique <boernai290@gmail.com>
-Depends: mobilesubstrate, com.antique.infinios
+Package: com.decimation.denihilistbootlogo
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/Snapped.deb
-Size: 5098
-Installed-Size: 136
-MD5sum: 9a9ec7b1302974be8170b45bb329e568
-Name: Snapped
-Author: Antique <boernai290@gmail.com>
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//bootlogos/com.decimation.denihilistbootlogo.deb
+Size: 432646
+MD5sum: ae0390481cfbf34c048e214e19ce78d2
+SHA1: bfce9532bef8a659fdd7b59b018b035e2ae6849d
+SHA256: f6ce9698ddd923af19dfbc01dec4a5cb4e53cac05dcca44bf40749c2d0b104e5
+Section: Themes (Boot Logos)
+Description: Denihilist boot logo.
+Author: iReaperrr
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.denihilistbootlogo
+Name: Denihilist Boot Logo
 
-Package: com.antique.springify
-Version: 2.6a
-Section: Beta
-Maintainer: Antique
-Depends: mobilesubstrate, com.antique.infinios
+Package: com.decimation.gunnii8forwhatsapp
+Version: 1.1
 Architecture: iphoneos-arm
-Filename: ./debs/Springify.deb
-Size: 4098
-Installed-Size: 136
-MD5sum: ca540bf0604f44f96a93398e947ffb81
-Name: Springify
-Author: Antique
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//whatsapp/com.decimation.gunnii8forwhatsapp.deb
+Size: 6994
+MD5sum: 4dcd9a8a2202f61f1954e0b110bf7f5c
+SHA1: 509ca2ebe2d0623f4e5682ecf9527d22a9897c6d
+SHA256: 6b7d3d0da8575c78f2d5302021200c02c0c36cef9ba16f6e7fd4c62f7fbfa2df
+Section: Themes (WhatsApp)
+Description: Gunnii-8 Messages theme for WhatsApp.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.gunnii8forwhatsapp
+Name: Gunnii-8 for WhatsApp
 
-Package: com.antique.surge
-Version: 0.4
-Section: Tweaks
-Maintainer: Antique
-Depends: mobilesubstrate
+Package: com.decimation.givenchyforzeppelin
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/Surge.deb
-Size: 16676
-Installed-Size: 284
-MD5sum: bf38129de7c5c8aa52aec02416ef1de0
-Description: Enter awesome description here
-Name: Surge
-Author: Antique, sk8r, gilshahar7, uroboro
-Depiction: https://antiquebeta.github.io/surge.html
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//zeppelin/com.decimation.givenchyforzeppelin.deb
+Size: 8728
+MD5sum: 6900e14ceca9cf2ce9c1e4a198e2d94e
+SHA1: 4a924bd00723ef8b528c7c1aea38cbef8bb92d9b
+SHA256: 7500126c999f578fe80489f1cc961fb6777840eb32070fffc5dc87471b0f27fb
+Section: Themes (Zeppelin)
+Description: Givenchy theme for Zeppelin
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.givenchyforzeppelin
+Name: Givenchy for Zeppelin
 
-Package: com.antique.swipeebar
-Version: 1.1.37
-Section: Tweaks
-Maintainer: Antique <boernai290@gmail.com>
-Depends: mobilesubstrate
+Package: com.decimation.lowerlte
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/SwipeeBar.deb
-Size: 4780
-Installed-Size: 136
-MD5sum: 79a1253d86f8950caba36d0f3f7b90f4
-Description: Enhanced Scrolling for Table Views
-Name: SwipeeBar
-Author: Antique <boernai290@gmail.com>
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//statusbar/com.decimation.lowerlte.deb
+Size: 4484
+MD5sum: e188bdbba183f49e39fff2ef3d551de9
+SHA1: 7cec90521d26e5999b1e529e4b04619bfb65d514
+SHA256: 44a63f956b0831fb8516b93af7f344a68ab085a75d304abafca4a341cb7a8602
+Section: Themes (Status Bar)
+Description: Lowercase LTE icon for iOS.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.lowerlte
+Name: LowerLTE
 
-Package: com.antique.sys+
-Version: 1.2.6
-Section: Beta
-Maintainer: Antique
-Depends: mobilesubstrate, com.antique.infinios
+Package: com.decimation.chargedup
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/Sys.deb
-Size: 4842
-Installed-Size: 136
-MD5sum: 8c60868bfc7635e142b41b2f9d863cf6
-Name: Sys+
-Author: Antique
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: com.unlimapps.toneenabler
+Filename: debs//ringtones/com.decimation.chargedup.deb
+Size: 143846
+MD5sum: 5f8727cef1a2a0727631b34669c38502
+SHA1: 02aa36dca892911ce83bed640984b45fbbe1afa3
+SHA256: 86f529e9c10acb3ad02b5b96553b99f92f926da0099fb775615bf229a201f86a
+Section: Ringtones
+Description: Drake "Charged up" ringtone.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.chargedup
+Name: Drake Charged Up Tone
+
+Package: com.decimation.heartbeat
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: winterboard
+Filename: debs//messages/com.decimation.heartbeat.deb
+Size: 4910
+MD5sum: 40c506a3176264947f8ed7aac1849cce
+SHA1: efec2a68c499eb163c0efe0e82b12652f4fb5e4f
+SHA256: 65cdb133917bb9a1499d63c1a01b6df9a3fd803c624a7c13551bce1f2a0b99a9
+Section: Themes (Messages)
+Description: Heartbeat for Messages.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.heartbeat
+Name: Heartbeat for Messages
+
+Package: com.decimation.sanfranciscokb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: com.bytafont.bytafont3
+Filename: debs//fonts/com.decimation.sanfranciscokb.deb
+Size: 9605674
+MD5sum: 218d08e37f3f83db42fbd0ba89cbb0b5
+SHA1: bdf918a71e1ee51141850b0bc60f9cac8aefbed9
+SHA256:5cd5bc369eeebe9b4ad51f8347124ebfe56f45e3a23b8fe09746b171f5415057
+Section: Fonts
+Description: San Francisco font for the iOS keyboard.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.sanfranciscokb
+Name: San Francisco Keyboard
+
+Package: com.decimation.roboto2014ios9
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: com.bytafont.bytafont3
+Filename: debs//fonts/com.decimation.roboto2014ios9.deb
+Size: 20212732
+MD5sum: c413d5c84e67b83744929aaa1a51d5ef
+SHA1: 5d7d9831864eb4203007947b78c55abb29379e8c
+SHA256: 324b3393357b7cd5302df7edbe411c8c3645dad3781553d927b893cd728f8f89
+Section: Fonts
+Description: Google's Roboto 2014 for iOS 9.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.roboto2014ios9
+Name: Roboto 2014 iOS 9
+
+Package: com.decimation.roboto2014ios9final
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: com.bytafont.bytafont3
+Filename: debs//fonts/com.decimation.roboto2014ios9final.deb
+Size: 20613162
+MD5sum: 7ecb7e74825be1c5c4ebf597a90f3fd7
+SHA1: a733c48d54fb507a51e68322991b8101129977ac
+SHA256: 580a83be4058f6965c5131e8fbc17d4e9adf338b0bfa8957419ddcf264d3ba66
+Section: Fonts
+Description: Google's Roboto 2014 for iOS 9.
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.roboto2014ios9
+Name: Roboto 2014 iOS 9 Final

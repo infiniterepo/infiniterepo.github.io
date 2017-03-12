@@ -1,8 +1,9 @@
-Origin: Antique's Beta Repo
-Label: Antique's Beta
+Origin: Decimation's Repo
+Label: Decimation's Repo
 Suite: stable
-Version: 10.2_0
-Codename: ios
+Version: 1.0
+Codename: Decimation
 Architectures: iphoneos-arm
 Components: main
-Description: Where ideas become reality
+Description: Decimation's Repo
+MD5Sum:
