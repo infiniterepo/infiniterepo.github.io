@@ -1,0 +1,8 @@
+Origin: Antique's Beta Repo
+Label: Antique's Beta
+Suite: stable
+Version: 10.2_0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Where ideas become reality
