@@ -23,6 +23,7 @@ Size: 25670
 MD5sum: efec64c973167636d94443da0b1d6ff6
 Name: MinimalisticUI
 Author: Infinite
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 
 Package: com.antique.apollo
 Version: 3.35
