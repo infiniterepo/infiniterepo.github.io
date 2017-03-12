@@ -19,8 +19,8 @@ Maintainer: Eukoalyptus
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/MinimalisticUI.deb
-Size: 25648
-MD5sum: 078098fee53edb59d5b1da138fddb675
+Size: 25670
+MD5sum: efec64c973167636d94443da0b1d6ff6
 Name: MinimalisticUI
 Author: Infinite
 
