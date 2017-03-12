@@ -12,17 +12,17 @@ Description: Remove the 3D Touch Separators for iOS 10!
 Name: 3DNoDiv10
 Author: Antique
 
-Package: com.antique.ahoyhoy
+Package: com.eukoalyptus.minimalisticui
 Version: 1.3
 Section: Beta
-Maintainer: Antique
+Maintainer: Eukoalyptus
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/Ahoyhoy.deb
 Size: 25648
 MD5sum: 078098fee53edb59d5b1da138fddb675
-Name: Ahoyhoy
-Author: Antique
+Name: MinimalisticUI
+Author: Infinite
 Icon: / file:///Applications/Cydia.app/Sections/Tweaks.png
 
 Package: com.antique.apollo
