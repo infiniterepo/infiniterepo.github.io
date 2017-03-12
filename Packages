@@ -1,0 +1,13 @@
+Package: com.eukoalyptus.minimalisticui
+Version: 1.3
+Section: Tweaks
+Maintainer: Infinite <infinite.cydia@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/MinimalisticUI.deb
+Size: 25648
+Installed-Size: 140
+MD5sum: 078098fee53edb59d5b1da138fddb675
+Name: MinimalisticUI
+Author: Infinite <infinite.cydia@gmail.com>
+Depiction: https://antiquebeta.github.io/apollo.html
